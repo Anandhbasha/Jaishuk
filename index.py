@@ -38,16 +38,16 @@ print("apple","banana", "orange","kiwi",sep="-")'''
 # a,b,c = b,c,a
 # print(a,b,c)
 # string
-text = "Hello welcome"
-# h=0 e=1 l=2 l =3 0=4 ""=5 w=6 e=7 l=8 c=9 o=9 m=10 e=11 or -1
+# text = "Hello welcome"
+# # h=0 e=1 l=2 l =3 0=4 ""=5 w=6 e=7 l=8 c=9 o=9 m=10 e=11 or -1
 
 
-# print(type(text))
-# print(text)
-print(text[0:6:2])
-print(text[-1::-1])
-print(text[::-1])
-# text[start:end:increment]
-# boolean
-todayClass = True
+# # print(type(text))
+# # print(text)
+# print(text[0:6:2])
+# print(text[-1::-1])
+# print(text[::-1])
+# # text[start:end:increment]
+# # boolean
+# todayClass = True
 
